@@ -1,0 +1,7 @@
+{
+  "dbConfig": {
+    "url": "mongodb+srv://admin123:Admin123!@cluster0.mrdjrqi.mongodb.net/bizcardDB"
+  },
+  "jwt": "780y94563hj2y45wopiunj",
+  "file": "production"
+}
